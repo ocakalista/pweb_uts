@@ -1,0 +1,15 @@
+{
+    "name": "huawei/pweb_uts",
+    "autoload": {
+        "psr-4": {
+            "Huawei\\PwebUts\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ocakalista",
+            "email": "rosakalista@students.amikom.ac.id"
+        }
+    ],
+    "require": {}
+}
