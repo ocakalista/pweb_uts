@@ -1,7 +1,6 @@
 @extends('layout.navbar')
 @section('content')
 
-@endsection
 
 <!DOCTYPE html>
 <html lang="en">
@@ -12,5 +11,8 @@
 </head>
 <body>
     
+    
 </body>
 </html>
+
+@endsection
